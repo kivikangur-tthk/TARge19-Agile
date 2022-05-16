@@ -13,6 +13,6 @@ jobs:
       with:
         server: kivikangur.thkit.ee
         username: gihub.kivikangur.thkit.ee
-        protocol: sftp
+        protocol: ftps
         log-level: verbose
         password: ${{ secrets.FTP_PASSWORD }}

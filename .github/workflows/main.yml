@@ -15,4 +15,4 @@ jobs:
         username: gihub.kivikangur.thkit.ee
         protocol: ftps
         log-level: verbose
-        password: ${{ secrets.FTP_PASSWORD }}
+        password: AvalikVeebiParool
